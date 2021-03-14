@@ -36,8 +36,5 @@
   "bugs": {
     "url": "https://github.com/Adriani1992/honkibook/issues"
   },
-  "homepage": "https://github.com/Adriani1992/honkibook#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.7"
-  }
+  "homepage": "https://github.com/Adriani1992/honkibook#readme"
 }
